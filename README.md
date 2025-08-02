@@ -28,15 +28,6 @@ ReadWithCard revolutionizes language learning by allowing users to create person
 - **Expo**: Rapid development and deployment platform
 - **SQLite**: Local database for card storage
 
-## 🚀 Installation & Setup
-
-### Prerequisites
-- **Python 3.8+**
-- **Node.js 16+**
-- **Google Gemini API Key**
-- **Tesseract OCR** installed and configured
-  
-
 ## 📱 Usage
 
 1. **Capture Text**: Take a photo of any text content using your device camera
@@ -49,6 +40,18 @@ ReadWithCard revolutionizes language learning by allowing users to create person
    - Example sentences
 5. **Study & Practice**: Review cards using spaced repetition and practice with AI chat
 6. **Track Progress**: Monitor your learning streaks and improvement over time
+
+
+<img width="1042" height="530" alt="image" src="https://github.com/user-attachments/assets/1f3ae136-e6b5-49ff-929b-e10cf7720d15" />
+
+
+## 🚀 Installation & Setup
+
+### Prerequisites
+- **Python 3.8+**
+- **Node.js 16+**
+- **Google Gemini API Key**
+- **Tesseract OCR** installed and configured
 
 
 ### Backend Setup
