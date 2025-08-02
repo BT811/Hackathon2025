@@ -111,11 +111,11 @@ ReadWithCard-Hackathon/
 
 - **Google Gemini AI** for powerful language processing capabilities
 - **Tesseract OCR** for robust text extraction
-- **BTK Academy** for organizing the AI in Education Hackathon 2025
+- **BTK Academy ** for organizing the AI in Education and E-commerce
 - **React Native & Expo** communities for excellent development tools
 
 ---
 
-**Built with ❤️ for the BTK AI in Hackathon 2025**
+**Developed for Hackathon 2025 organized by BTK**
 
 *Transforming the way we learn languages through AI innovation*
