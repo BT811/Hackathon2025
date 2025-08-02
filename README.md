@@ -35,6 +35,8 @@ ReadWithCard revolutionizes language learning by allowing users to create person
 - **Node.js 16+**
 - **Google Gemini API Key**
 - **Tesseract OCR** installed and configured
+  
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/00ec4473-56ef-4361-9300-5f0c6fbbfa69" />
 
 ## 📱 Usage
 
