@@ -28,6 +28,8 @@ ReadWithCard revolutionizes language learning by allowing users to create person
 - **Expo**: Rapid development and deployment platform
 - **SQLite**: Local database for card storage
 
+<img width="1042" height="530" alt="image" src="https://github.com/user-attachments/assets/1f3ae136-e6b5-49ff-929b-e10cf7720d15" />
+
 ## 📱 Usage
 
 1. **Capture Text**: Take a photo of any text content using your device camera
@@ -42,7 +44,6 @@ ReadWithCard revolutionizes language learning by allowing users to create person
 6. **Track Progress**: Monitor your learning streaks and improvement over time
 
 
-<img width="1042" height="530" alt="image" src="https://github.com/user-attachments/assets/1f3ae136-e6b5-49ff-929b-e10cf7720d15" />
 
 
 ## 🚀 Installation & Setup
