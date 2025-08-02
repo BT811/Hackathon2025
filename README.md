@@ -4,7 +4,8 @@ An intelligent flashcard application that transforms images into interactive lea
 
 ## 🎯 Project Overview
 
-ReadWithCard revolutionizes language learning by allowing users to create personalized flashcards from any text source - books, articles, signs, or handwritten notes. Simply take a photo, and our AI-powered system extracts text, analyzes words, and creates comprehensive learning cards with translations, pronunciations, and the original context where the word appears.
+ReadWithCard is a language learning tool designed to turn your physical books into an interactive vocabulary-building experience. It empowers learners to create digital flashcards directly from printed pages, articles, or any text they encounter. Simply take a photo, and our AI-powered system extracts the text, analyzes your chosen words, and builds comprehensive learning cards that include translations, pronunciations, and the original sentence for authentic context.
+
 
 ## ✨ Key Features
 
