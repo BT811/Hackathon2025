@@ -10,7 +10,7 @@ ReadWithCard is a language learning tool designed to turn your physical books in
 ## ✨ Key Features
 
 - **📸 Smart OCR**: Advanced text extraction from images using Tesseract with optimized preprocessing
-- **🤖 AI-Powered Cards: Google Gemini analyzes words and extracts the sentences they appear in to create rich flashcards"
+- **🤖 AI-Powered Cards: Google Gemini analyzes words and extracts the sentences they appear in to create rich flashcards
 - **💬 Interactive Chat**: Built-in AI assistant helps you practice using new words and provides grammar corrections
 - **🗂️ Deck Management**: Organize flashcards into custom decks for focused study sessions
 - **📊 Progress Tracking**: Monitor your learning journey with detailed statistics and streak tracking
