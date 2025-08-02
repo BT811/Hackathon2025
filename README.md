@@ -4,12 +4,12 @@ An intelligent flashcard application that transforms images into interactive lea
 
 ## 🎯 Project Overview
 
-ReadWithCard revolutionizes language learning by allowing users to create personalized flashcards from any text source - books, articles, signs, or handwritten notes. Simply take a photo, and our AI-powered system extracts text, analyzes words, and creates comprehensive learning cards with translations, pronunciations, and contextual examples.
+ReadWithCard revolutionizes language learning by allowing users to create personalized flashcards from any text source - books, articles, signs, or handwritten notes. Simply take a photo, and our AI-powered system extracts text, analyzes words, and creates comprehensive learning cards with translations, pronunciations, and the original context where the word appears.
 
 ## ✨ Key Features
 
 - **📸 Smart OCR**: Advanced text extraction from images using Tesseract with optimized preprocessing
-- **🤖 AI-Powered Cards**: Google Gemini analyzes words in context to create rich flashcards with translations, descriptions, and example sentences
+- **🤖 AI-Powered Cards: Google Gemini analyzes words and extracts the sentences they appear in to create rich flashcards"
 - **💬 Interactive Chat**: Built-in AI assistant helps you practice using new words and provides grammar corrections
 - **🗂️ Deck Management**: Organize flashcards into custom decks for focused study sessions
 - **📊 Progress Tracking**: Monitor your learning journey with detailed statistics and streak tracking
@@ -39,7 +39,7 @@ ReadWithCard revolutionizes language learning by allowing users to create person
    - Word translations
    - Contextual descriptions
    - Pronunciation guides
-   - Example sentences
+   - Original sentences from the source text
 5. **Study & Practice**: Review cards using spaced repetition and practice with AI chat
 6. **Track Progress**: Monitor your learning streaks and improvement over time
 
